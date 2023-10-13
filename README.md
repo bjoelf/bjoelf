@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @bjoelf and work as full-stack developer within the microsoft space.
-- Lately been doing ASP .net core, entity framwork, React, javascript, python, etc.
-- Privately working on integrations on home-assistant and various open source project.
-- Currently working for Nibe in Sweden www.nibe.eu with their jpi plattform.
+- 👋 Hi, I’m @bjoelf and work as full-stack developer.
+- Latest project in python and go.
+- Earlier been doing ASP .net core, entity framwork, React, javascript etc.
 - 📫 How to reach me: bjorn_@_elfvin.se (pls remove underscore chars).
