@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @bjoelf and work as full-stack developer.
-- Latest project in python and go.
+- 👋 Hi, I’m @bjoelf and work full-time as full-stack developer. No external clients last year. Only private business project involving quantative / rulebased trading
+- Latest project in colab/python and go. 
+- If you have an exiting project, pls get in touch.
 - Earlier been doing ASP .net core, entity framwork, React, javascript etc.
 - 📫 How to reach me: bjorn_@_elfvin.se (pls remove underscore chars).
