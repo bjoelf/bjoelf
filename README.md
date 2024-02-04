@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bjoelf and I spend my days developing trading strategies and deploy the execution part of them in the cloud. In this process I perform the same development work as a full-stack developer and devops engineer. No external clients last year. Only private business project involving quantative / rulebased trading implemented in Go.
 - Latest project in colab/python and go. 
 - If you have an exiting project, pls get in touch.
-- Earlier been doing ASP .net core, entity framwork, React, javascript etc.
+- Earlier been doing ASP .net core, entity framework, React, javascript etc.
 - 📫 How to reach me: bjorn_@_elfvin.se (pls remove underscore chars).
